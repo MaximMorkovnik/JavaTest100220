@@ -1,0 +1,19 @@
+.dropdown-menu>li>a {
+    display: inline-block;
+}
+
+.able-be-deleted {
+    padding: 3px 0 3px 20px;
+    width: 125px;
+}
+
+.btn-delete-group {
+    display: block;
+    width: 20px;
+    height: 3px;
+    border: none;
+    background-color: #95090D;
+    float: right;
+    margin-top: 12px;
+    margin-right: 10px;
+}
