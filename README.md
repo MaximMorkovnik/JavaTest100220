@@ -1,6 +1,6 @@
 <li><strong>Практическая задача к тесту</strong>
     <ul>
-            <a href="https://github.com/MaximMorkovnik/exchange-rates-euro/tree/master/src/main/java/ua/kiev/prog">
+            <a href="https://github.com/MaximMorkovnik/JavaTest100220/tree/master/JavaTest100220">
                 Написать веб приложение на Spring Boot + Spring Data + примитивная визуализация, которое позволит:<br>
 1) ввести через форму на сайте адрес квартиры<br>
 2) ввести до 3-х человек (ФИО), которые проживают в квартире<br>
